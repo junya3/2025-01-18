@@ -14,7 +14,7 @@
    
    <img width="500" alt="XAMMPファイルの開き方" src="https://github.com/user-attachments/assets/2ed171c4-3c73-4e37-a096-434b6d98d238" />
    
-   **Open Application Folder**を選択し、**htdocs**の中にダウンロードしたファイルを移してください。
+   `Open Application Folder`を選択し、`htdocs`の中にダウンロードしたファイルを移してください。
 
 ## データベースのインポート
 
@@ -27,9 +27,10 @@
    <img width="500" alt="データベースの新規作成" src="https://github.com/user-attachments/assets/5a5f7236-c4b7-4168-8200-a495b84b9bd7" />
    
    任意のデータベース名を入力し、データベースを作成してください。
+   
    **（PHPフォルダ内データベース名は【it_recipe_practice】となっています。必要に合わせて変更してください）**
 
-3. SQLファイルのインポート
+4. SQLファイルのインポート
    
    <img width="500" alt="phpmyadminのインポートページ" src="https://github.com/user-attachments/assets/f7c774d9-58fb-4930-b011-53ec9502f089" />
    
